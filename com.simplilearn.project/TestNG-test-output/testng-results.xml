@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon_project_TestNG_excludeTest_Suite" duration-ms="14361" started-at="2021-02-15T04:34:12 UTC" finished-at="2021-02-15T04:34:26 UTC">
+    <groups>
+    </groups>
+    <test name="Amazon_project_TestNG_excludeTest_Name" duration-ms="14361" started-at="2021-02-15T04:34:12 UTC" finished-at="2021-02-15T04:34:26 UTC">
+      <class name="com.project.amazon.test.Amazon_project_TestNG">
+        <test-method status="PASS" signature="instantiate_chromeDriver()[pri:0, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="instantiate_chromeDriver" is-config="true" duration-ms="1096" started-at="2021-02-15T04:34:12 UTC" finished-at="2021-02-15T04:34:13 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiate_chromeDriver -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="beforeClass" is-config="true" duration-ms="1" started-at="2021-02-15T04:34:13 UTC" finished-at="2021-02-15T04:34:13 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="amazon_homepage()[pri:1, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="amazon_homepage" duration-ms="1975" started-at="2021-02-15T04:34:13 UTC" finished-at="2021-02-15T04:34:15 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_homepage -->
+        <test-method status="PASS" signature="amazon_smileNGO()[pri:2, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="amazon_smileNGO" duration-ms="10042" started-at="2021-02-15T04:34:15 UTC" finished-at="2021-02-15T04:34:25 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_smileNGO -->
+        <test-method status="PASS" signature="amazon_subCart()[pri:3, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="amazon_subCart" duration-ms="1092" started-at="2021-02-15T04:34:25 UTC" finished-at="2021-02-15T04:34:26 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_subCart -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="afterTest" is-config="true" duration-ms="111" started-at="2021-02-15T04:34:26 UTC" finished-at="2021-02-15T04:34:26 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.project.amazon.test.Amazon_project_TestNG -->
+    </test> <!-- Amazon_project_TestNG_excludeTest_Name -->
+  </suite> <!-- Amazon_project_TestNG_excludeTest_Suite -->
+</testng-results>
